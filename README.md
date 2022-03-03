@@ -25,6 +25,9 @@ Aap VM manager will only work on linux
 
 # TODO
 Add virtio support
+
 Add PCI passtrough
+
 Automate the proccess of dumping a ROM for a GPU
+
 A GUI?
