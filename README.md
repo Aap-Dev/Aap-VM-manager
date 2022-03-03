@@ -5,9 +5,13 @@ Aap VM is the perfect virtual machine manager for the command line!
 Aap VM requires:
 
    qemu-kvm – The main package
+   
    libvirt – Includes the libvirtd server exporting the virtualization support
+   
    libvirt-client – This package contains virsh and other client-side utilities
+   
    virt-install – Utility to install virtual machines
+   
    virt-viewer – Utility to display graphical console for a virtual machines
    
    
