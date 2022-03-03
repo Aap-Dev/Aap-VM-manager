@@ -17,7 +17,9 @@ Aap VM requires:
    
 # Goal
 The goal of this project is to make managing and creating virtual machines a lot easier
+
 The end goal of this project is to automate the proccess of single GPU passtrough
+
 The above goal has not yet been reached but I am working towards it
 
 # Platforms
